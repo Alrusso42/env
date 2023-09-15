@@ -1,0 +1,13 @@
+DATABASE_URL="postgresql://postgres:aiYRMLDgAMFJryARxgii@containers-us-west-150.railway.app:6272/railway"
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=aiYRMLDgAMFJryARxgii
+POSTGRES_DATABASE=railway
+POSTGRES_HOST=containers-us-west-150.railway.app
+POSTGRES_PORT=6272
+JWT_SECRET=secret
+NEXT_PUBLIC_API_URL=http://10.11.2.11:4000
+NEXT_PUBLIC_API_URL_FRONT=http://10.11.2.11:3000
+NEXT_PUBLIC_API_URL_CALLBACK=http://10.11.2.11:4000/login/callback
+API_U_ID=u-s4t2ud-b46382ad8e3c615fea74e7a47661ab4792989465c6ccda29ac8b48f6c6b72458
+API_S_SECRET=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
+NEXT_PUBLIC_API_URI=https://api.intra.42.fr/oauth/authorize?client_id=u-s4t2ud-b46382ad8e3c615fea74e7a47661ab4792989465c6ccda29ac8b48f6c6b72458&redirect_uri=http%3A%2F%2F10.11.2.11%3A4000%2Flogin%2Fcallback&response_type=code
